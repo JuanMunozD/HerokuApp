@@ -1,0 +1,5 @@
+org\edu\Parcial2\service\ServiceW.class
+org\edu\Parcial2\connection\HandledException.class
+org\edu\Parcial2\Parcial2Application.class
+org\edu\Parcial2\controller\Controller.class
+org\edu\Parcial2\connection\Connection.class
