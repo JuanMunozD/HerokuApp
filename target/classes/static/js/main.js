@@ -47,7 +47,7 @@ var w = (function () {
             var valores;
             var info;
             
-            $.get('/clima/' + city, function (data) {
+            $.get('/api/clima/' + city, function (data) {
                 console.log(data);
                 info = JSON.stringify(data.data, null, '\t');
                 valores = JSON.parse(data);

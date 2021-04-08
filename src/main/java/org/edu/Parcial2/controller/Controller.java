@@ -13,7 +13,7 @@ import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 import java.util.UUID;
 
 @RestController
-@RequestMapping
+@RequestMapping("/api")
 public class Controller {
 
     @Autowired
